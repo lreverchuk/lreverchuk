@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=lreverchuk&color=green) 
+![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)
 
-I used to be a web developer before transitioning into recruitment. Over the last decade, my agency [EchoGlobal](https://echoglobal.tech/) has helped dozens of businesses staff various IT professionals remotely.
+I used to be a web developer before transitioning into recruitment. Over the last decade, my agency [EchoGlobal](https://echoglobal.tech/) has helped dozens of businesses hire various IT professionals remotely. So, if that's something you might be interested in, please [shoot me a message](https://echoglobal.tech/contact/).
 
 Now, I'm building *#EGTI (Echo Global Talent Index)* - a ranking system with a sophisticated algorithm for validating software engineers.
 
@@ -44,4 +44,4 @@ Drupal, Umbraco, Typo3, SilverStripe, Sitecore, ExpressionEngine.
 
 Feel free to reach you to me if you have any ideas for collaboration.
 
-![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)
+![](https://komarev.com/ghpvc/?username=lreverchuk&color=green)
