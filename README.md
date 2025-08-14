@@ -4,7 +4,7 @@ I used to be a web developer before transitioning into recruitment. Over the las
 
 Now, I'm building *#EGTI (Echo Global Talent Index)* - a ranking system with a sophisticated algorithm for validating software engineers.
 
-Part of my work involves researching top tech talent here on GitHub across 100+ niches:
+Part of my work involves researching top tech talent here on GitHub across 💯+ niches:
 
 ---
 
