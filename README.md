@@ -1,11 +1,12 @@
 ## Hi there 👋
 
+I am Lou and used to be a web developer before transitioning into recruitment. Over the last decade, my agency has helped dozens of businesses staff various IT professionals remotely.
 
-It is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Now, I'm building #EGTI (Echo Global Talent Index) — a ranking system with a sophisticated algorithm for validating tech professionals.
 
-Here are some ideas to get you started:
+Part of my work involves researching top tech talent here on GitHub across various niches:
 
-- 🔭 I’m currently working on ...
+- *Programming Languages*: C#, C++, Java, JavaScript, Kotlin, Python, Ruby, Rust, Swift, TypeScript, Lua, Objective-C, Dart, PHP, Go (Golang), Haskell, Scala, Elixir, Erlang, Clojure, Apex, Solidity, SQL.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ I'm compiling curated lists of top tech professionals on GitHub:
   
-  1. Programming Languages: C#, C++, Java, JavaScript, Kotlin, Python, Ruby, Rust, Swift, TypeScript, Lua, Objective-C, Dart, PHP, Go (Golang), Haskell, Scala, Elixir, Erlang, Clojure, Apex, Solidity, SQL
+  1. 
   2. Frameworks & Libraries: ASP.NET, Spring Boot, Nest.js, Express.js, Django, Flask, Laravel, Symfony, CakePHP, CodeIgniter, Meteor, ModX, Yii, Zend, Angular, React, React Native, Vue.js, SvelteJS, Next.js, Nuxt.js, Blazor, Three.js, Vaadin, MAUI, Redux, PWA, WebRTC
 3. Mobile & Embedded Development: Android, iOS, Xamarin, Flutter, FlutterFlow, Apache Cordova, Arduino, Raspberry Pi, Bluetooth, NFC, iBeacon, RFID
 4. Cloud & DevOps: AWS, AWS Cloud, Azure, GCP, Cloud Computing, Serverless, Docker, Kubernetes, Terraform, TechOps, MLOps, DataOps, DevSecOps, SonarQube, Selenium, Zapier
