@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=lreverchuk&color=green) 
+
 I used to be a web developer before transitioning into recruitment. Over the last decade, my agency [EchoGlobal](https://echoglobal.tech/) has helped dozens of businesses staff various IT professionals remotely.
 
 Now, I'm building *#EGTI (Echo Global Talent Index)* - a ranking system with a sophisticated algorithm for validating software engineers.
