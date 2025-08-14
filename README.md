@@ -32,7 +32,7 @@ AI, AI LLM, ChatGPT, ML, Computer Vision, Augmented Reality, TensorFlow, PyTorch
 Blockchain, Bitcoin, Cardano, Polkadot, Solana, Web3, DApp, Hyperledger.
   
 #### Enterprise Software & CRM
-Dynamics 365, SAP, [ABAP](https://gist.github.com/lreverchuk/800f4997fc608139050294f0598b0a09), Salesforce, Zoho CRM, Odoo, SugarCRM, NetSuite, SharePoint.
+Dynamics 365, SAP, ABAP, Salesforce, Zoho CRM, Odoo, SugarCRM, NetSuite, SharePoint.
   
 #### E-Commerce Platforms
 Hybris, Demandware, BigCommerce, Magento, PrestaShop, Shopware, WooCommerce, Volusion, Spree Commerce, Pimcore, NopCommerce.
