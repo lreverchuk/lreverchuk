@@ -3,6 +3,7 @@
 I used to be a web developer before transitioning into recruitment. Over the last decade, my agency [EchoGlobal](https://echoglobal.tech/) has helped dozens of businesses staff various IT professionals remotely.
 
 Now, I'm building *#EGTI (Echo Global Talent Index)* - a ranking system with a sophisticated algorithm for validating software engineers.
+![Static Badge](https://img.shields.io/badge/EGTI)
 
 Part of my work involves researching top tech talent here on GitHub across 100+ niches:
 
