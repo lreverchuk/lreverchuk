@@ -4,7 +4,7 @@ I used to be a web developer before transitioning into recruitment. Over the las
 
 Now, I'm building *#EGTI (Echo Global Talent Index)* - a ranking system with a sophisticated algorithm for validating software engineers.
 
-![alt text](https://echoglobal.tech/technologies/abap/ "Logo Title Text 1")
+![alt text](https://echoglobal.tech/wp-content/uploads/2025/04/abap-1.png "ABAP")
 
 Part of my work involves researching top tech talent here on GitHub across 100+ niches:
 
