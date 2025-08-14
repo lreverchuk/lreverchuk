@@ -2,7 +2,7 @@
 
 ![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)
 
-I used to be a web developer before transitioning into recruitment. Over the last decade, my agency [EchoGlobal](https://echoglobal.tech/) has helped dozens of businesses hire various IT professionals remotely. So, if that's something you might be interested in, please [shoot me a message](https://echoglobal.tech/contact/).
+I used to be a web developer before transitioning into recruitment. Over the last decade, my agency [EchoGlobal](https://echoglobal.tech/) has helped dozens of businesses hire amazing IT professionals remotely. So, if that's something you might be interested in, please [shoot me a message](https://echoglobal.tech/contact/).
 
 Now, I'm building *#EGTI (Echo Global Talent Index)* - a ranking system with a sophisticated algorithm for validating software engineers.
 
