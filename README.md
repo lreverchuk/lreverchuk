@@ -28,7 +28,7 @@ MySQL, PostgreSQL, SQLite, Oracle, Redshift, MongoDB, DynamoDB, Firebase, Cassan
 #### Artificial Intelligence & Machine Learning
 AI, AI LLM, ChatGPT, ML, Computer Vision, Augmented Reality, TensorFlow, PyTorch, Quantum Computing.
   
-#### BWeb3
+#### Web3
 Blockchain, Bitcoin, Cardano, Polkadot, Solana, Web3, DApp, Hyperledger.
   
 #### Enterprise Software & CRM
