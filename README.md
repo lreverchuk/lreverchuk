@@ -6,6 +6,8 @@ Now, I'm building *#EGTI (Echo Global Talent Index)* - a ranking system with a s
 
 Part of my work involves researching top tech talent here on GitHub across 100+ niches:
 
+---
+
 - **Programming Languages**: C#, C++, Java, JavaScript, Kotlin, Python, Ruby, Rust, Swift, TypeScript, Lua, Objective-C, Dart, PHP, Go (Golang), Haskell, Scala, Elixir, Erlang, Clojure, Apex, Solidity, SQL.
   
 - **Frameworks & Libraries**: [.NET](https://gist.github.com/lreverchuk/85c0b366c35eb12837f4d0a8d60cc3f1), Spring Boot, Nest.js, Express.js, Django, Flask, Laravel, Symfony, CakePHP, CodeIgniter, Meteor, ModX, Yii, Zend, Angular, React, React Native, Vue.js, SvelteJS, Next.js, Nuxt.js, Blazor, Three.js, Vaadin, MAUI, Redux, PWA, WebRTC
