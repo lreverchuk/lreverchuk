@@ -26,4 +26,6 @@ Part of my work involves researching top tech talent here on GitHub across 100+ 
   
 - **CMS**: Drupal, Umbraco, Typo3, SilverStripe, Sitecore, ExpressionEngine.
 
+---
+
 Feel free to reach you to me if you have any ideas for collaboration.
