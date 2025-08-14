@@ -2,7 +2,7 @@
 
 I used to be a web developer before transitioning into recruitment. Over the last decade, my agency [EchoGlobal](https://echoglobal.tech/) has helped dozens of businesses staff various IT professionals remotely.
 
-Now, I'm building *#EGTI (Echo Global Talent Index)* — a ranking system with a sophisticated algorithm for validating tech professionals.
+Now, I'm building *#EGTI (Echo Global Talent Index)* - a ranking system with a sophisticated algorithm for validating software engineers.
 
 Part of my work involves researching top tech talent here on GitHub across 100+ niches:
 
@@ -19,8 +19,11 @@ Part of my work involves researching top tech talent here on GitHub across 100+ 
 - **Artificial Intelligence & Machine Learning**: AI, AI LLM, ChatGPT, ML, Computer Vision, Augmented Reality, TensorFlow, PyTorch, Quantum Computing.
   
 - **Blockchain & Web3**: Blockchain, Bitcoin, Cardano, Polkadot, Solana, Web3, DApp, Hyperledger.
+  
 - **Enterprise Software & CRM**: Dynamics 365, SAP, ABAP, Salesforce, Zoho CRM, Odoo, SugarCRM, NetSuite, SharePoint.
+  
 - **E-Commerce Platforms**: Hybris, Demandware, BigCommerce, Magento, PrestaShop, Shopware, WooCommerce, Volusion, Spree Commerce, Pimcore, NopCommerce.
+  
 - **CMS**: Drupal, Umbraco, Typo3, SilverStripe, Sitecore, ExpressionEngine.
 
 Feel free to reach you to me if you have any ideas for collaboration.
