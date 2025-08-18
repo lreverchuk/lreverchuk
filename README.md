@@ -40,7 +40,7 @@ Part of my work involves researching top tech talent here on GitHub across 💯+
 
 ### Enterprise Software & CRM
 
-[Dynamics 365](https://gist.github.com/lreverchuk/7b7cda1afe9f042484f7f25adde9a049), [SAP](https://gist.github.com/lreverchuk/40a4c83e178e6c87350748c3239c9775), [ABAP](https://gist.github.com/lreverchuk/800f4997fc608139050294f0598b0a09), [Salesforce](https://gist.github.com/lreverchuk/12972c8d2765e1138a8416fcb0c2de01),  [Odoo](https://gist.github.com/lreverchuk/5f7ef29ebe9b592c684f97280baa84a5), [SugarCRM](https://gist.github.com/lreverchuk/1ff44769bbda4c6030a3bcc59ebc0f5f), [NetSuite](https://echoglobal.tech/technologies/netsuite/), [SharePoint](https://gist.github.com/lreverchuk/29ac6e64206185f73bd72e5046d326bf).
+[Dynamics 365](https://gist.github.com/lreverchuk/7b7cda1afe9f042484f7f25adde9a049), [SAP](https://gist.github.com/lreverchuk/40a4c83e178e6c87350748c3239c9775), [ABAP](https://gist.github.com/lreverchuk/800f4997fc608139050294f0598b0a09), [Salesforce](https://gist.github.com/lreverchuk/12972c8d2765e1138a8416fcb0c2de01),  [Odoo](https://gist.github.com/lreverchuk/5f7ef29ebe9b592c684f97280baa84a5), [SugarCRM](https://gist.github.com/lreverchuk/1ff44769bbda4c6030a3bcc59ebc0f5f),  [SharePoint](https://gist.github.com/lreverchuk/29ac6e64206185f73bd72e5046d326bf).
 
 ### E-Commerce Platforms
 
