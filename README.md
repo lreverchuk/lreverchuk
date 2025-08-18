@@ -32,7 +32,7 @@ Part of my work involves researching top tech talent here on GitHub across 💯+
 
 ### Artificial Intelligence & Machine Learning
 
-[AI](https://gist.github.com/lreverchuk/282799677d0a53ff27cec5f678f7c819), [AI LLM](https://gist.github.com/lreverchuk/bad5790e99293e94314393d991fbec6e), [ChatGPT](https://gist.github.com/lreverchuk/df1ed042b4243a221c2d2ff108aac7d2), [ML](https://gist.github.com/lreverchuk/26298d8c97e831a82cde490f500c6a0d), [Computer Vision](https://gist.github.com/lreverchuk/b89125a68ac3ef38a2cc252c3694ebd2), [Augmented Reality](https://echoglobal.tech/technologies/augmented-reality/), [TensorFlow](https://gist.github.com/lreverchuk/35adadb147a7671d9fb421f7cf5eb42a), [PyTorch](https://gist.github.com/lreverchuk/5f1473fecb5e223e7eef7ef4f9521903), [Quantum Computing](https://gist.github.com/lreverchuk/f11529667c0bc8499fe38bf634a0838b).
+[AI](https://gist.github.com/lreverchuk/282799677d0a53ff27cec5f678f7c819), [LLM](https://gist.github.com/lreverchuk/bad5790e99293e94314393d991fbec6e), [ChatGPT](https://gist.github.com/lreverchuk/df1ed042b4243a221c2d2ff108aac7d2), [ML](https://gist.github.com/lreverchuk/26298d8c97e831a82cde490f500c6a0d), [Computer Vision](https://gist.github.com/lreverchuk/b89125a68ac3ef38a2cc252c3694ebd2), [Augmented Reality](https://echoglobal.tech/technologies/augmented-reality/), [TensorFlow](https://gist.github.com/lreverchuk/35adadb147a7671d9fb421f7cf5eb42a), [PyTorch](https://gist.github.com/lreverchuk/5f1473fecb5e223e7eef7ef4f9521903), [Quantum Computing](https://gist.github.com/lreverchuk/f11529667c0bc8499fe38bf634a0838b).
 
 ### Web3
 
