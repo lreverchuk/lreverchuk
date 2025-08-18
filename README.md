@@ -20,7 +20,7 @@ Part of my work involves researching top tech talent here on GitHub across 💯+
 
 ### Mobile & Embedded Development
 
-[Android](https://gist.github.com/lreverchuk/8aff90dc9db2f1ce6f6c957cd90e8211), [iOS](https://gist.github.com/lreverchuk/41accfe21c3ab017f655cbb78ed103fc), [Xamarin](https://gist.github.com/lreverchuk/245a1775c39d153971e9ff8e86ad9e54), [Flutter](https://gist.github.com/lreverchuk/98a1444689341957c02755a32f105b6a), [FlutterFlow](https://echoglobal.tech/technologies/flutterflow/), [Apache Cordova](https://gist.github.com/lreverchuk/355b33394b0fb6e8574e9ca94a27508d), [Arduino](https://gist.github.com/lreverchuk/2d79e4f2ba75c6fc332057c5bd6de325), [Raspberry Pi](https://gist.github.com/lreverchuk/0ddb4addee9d5ac09b006989971e3e9f), [Bluetooth](https://gist.github.com/lreverchuk/df350a7fdadb36678b38c720279d84c6), [NFC](https://echoglobal.tech/technologies/nfc/), [iBeacon](https://gist.github.com/lreverchuk/d94a6581d0b31e8341f210b06b628816), [RFID](https://echoglobal.tech/technologies/rfid/).
+[Android](https://gist.github.com/lreverchuk/8aff90dc9db2f1ce6f6c957cd90e8211), [iOS](https://gist.github.com/lreverchuk/41accfe21c3ab017f655cbb78ed103fc), [Xamarin](https://gist.github.com/lreverchuk/245a1775c39d153971e9ff8e86ad9e54), [Flutter](https://gist.github.com/lreverchuk/98a1444689341957c02755a32f105b6a), [Apache Cordova](https://gist.github.com/lreverchuk/355b33394b0fb6e8574e9ca94a27508d), [Arduino](https://gist.github.com/lreverchuk/2d79e4f2ba75c6fc332057c5bd6de325), [Raspberry Pi](https://gist.github.com/lreverchuk/0ddb4addee9d5ac09b006989971e3e9f), [Bluetooth](https://gist.github.com/lreverchuk/df350a7fdadb36678b38c720279d84c6), [iBeacon](https://gist.github.com/lreverchuk/d94a6581d0b31e8341f210b06b628816).
 
 ### Cloud & DevOps
 
